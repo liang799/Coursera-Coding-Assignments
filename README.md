@@ -1,6 +1,8 @@
 # Coursera-Coding-Assignments
 
+<h2>Solutions</h2>
+
 <ul>
-  <li href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md">Assignment 2</li>
+  <li><a href="https://liang799.github.io/Coursera-Coding-Assignments/module2-solution">Assignment 2</a></li>
 </ul>  
 
