@@ -1,5 +1,3 @@
-# Coursera-Coding-Assignments
-
 <h2>Solutions</h2>
 
 <ul>
